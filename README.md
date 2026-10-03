@@ -2,13 +2,22 @@
 
 > **Read-only archive of released versions of flagrow/ads.** Not for installation: use [Packagist](https://packagist.org/packages/flagrow/ads) or the [upstream repository](https://github.com/FriendsOfFlarum/ads).
 
-**0** versions archived · Latest: [`0.2.4`](https://github.com/flarchive/flagrow-ads/tree/archive/v0.2.4) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**10** versions archived · Latest: [`0.2.4`](https://github.com/flarchive/flagrow-ads/tree/archive/v0.2.4) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0-beta.1` | 2017-01-30 | `0.1.0-beta.6` | [Browse](https://github.com/flarchive/flagrow-ads/tree/archive/v0.1.0-beta.1) |
+| `0.1.0-beta.2` | 2017-01-31 | `0.1.0-beta.6` | [Browse](https://github.com/flarchive/flagrow-ads/tree/archive/v0.1.0-beta.2) |
+| `0.1.0-beta.3` | 2017-02-27 | `0.1.0-beta.6` | [Browse](https://github.com/flarchive/flagrow-ads/tree/archive/v0.1.0-beta.3) |
+| `0.1.0-beta.4` | 2017-07-22 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/flagrow-ads/tree/archive/v0.1.0-beta.4) |
+| `0.2.0` | 2019-07-02 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-ads/tree/archive/v0.2.0) |
+| `0.2.0-beta.1` | 2018-11-18 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-ads/tree/archive/v0.2.0-beta.1) |
+| `0.2.1` | 2019-07-11 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-ads/tree/archive/v0.2.1) |
+| `0.2.2` | 2019-07-11 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-ads/tree/archive/v0.2.2) |
+| `0.2.3` | 2019-07-23 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-ads/tree/archive/v0.2.3) |
+| `0.2.4` | 2019-08-13 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/flagrow-ads/tree/archive/v0.2.4) |
 
 Catalog entry: [packages/flagrow-ads.json](https://github.com/flarchive/archive-index/blob/main/packages/flagrow-ads.json)
 
